@@ -37,5 +37,5 @@
 
 ## 📩 Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RogelioBustamante-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/ingcapadev/](https://www.linkedin.com/in/marco-rogelio-bustamante-orozco-0151a0183/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RogelioBustamante-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-rogelio-bustamante-orozco-0151a0183/)
 [![Email](https://img.shields.io/badge/rogeliomboacademico@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rogeliomboacademico@gmail.com)
